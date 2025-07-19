@@ -47,5 +47,23 @@ Saya adalah seorang lulusan baru dari <strong>Universitas Semarang</strong> deng
 Simple Website (html dan css)">
   </picture>
 </a>
+<a href="https://youtu.be/I1HavyQJmCU?si=TVZ6NmgPwxA0OlDN">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=I1HavyQJmCU&title=Membuat+Kartu+Siswa+Otomatis+||+Power+Automate&lang=id&timestamp=1696868769&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5&duration=172">
+    <img src="https://ytcards.demolab.com/?id=I1HavyQJmCU&title=Membuat+Kartu+Siswa+Otomatis+||+Power+Automate&lang=id&timestamp=1696868769&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5&duration=172" alt="Automate" title="Membuat Kartu Siswa Otomatis || Power Automate">
+  </picture>
+</a>
+<a href="https://youtu.be/zQRJhTIryXQ?si=cuQalqp9ArN-9Q5U">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=zQRJhTIryXQ&title=MEMBUAT+MEKANISME+SEDERHANA+LAMPU+MERAH+MENGGUNAKAN+FLIP+FLOP+||+ELECTRONIC+WORKBENCH&lang=id&timestamp=1696868769&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5&duration=172">
+    <img src="https://ytcards.demolab.com/?id=zQRJhTIryXQ&title=MEMBUAT+MEKANISME+SEDERHANA+LAMPU+MERAH+MENGGUNAKAN+FLIP+FLOP+||+ELECTRONIC+WORKBENCH&lang=id&timestamp=1696868769&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5&duration=172" alt="Workbench" title="MEMBUAT MEKANISME SEDERHANA LAMPU MERAH MENGGUNAKAN FLIP FLOP || ELECTRONIC WORKBENCH">
+  </picture>
+</a>
+<a href="https://youtu.be/5owDGYrDhRs?si=YMO9q5qNWT4-rLWo">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=5owDGYrDhRs&title=Menampilkan+1+tabel+sekaligus+dari+3+tabel+menggunakan+WHERE+dan+JOIN+TABLE+||+Mysql+Relasi&lang=id&timestamp=1696868769&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5&duration=172">
+    <img src="https://ytcards.demolab.com/?id=5owDGYrDhRs&title=Menampilkan+1+tabel+sekaligus+dari+3+tabel+menggunakan+WHERE+dan+JOIN+TABLE+||+Mysql+Relasi&lang=id&timestamp=1696868769&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5&duration=172" alt="Mysql" title="Menampilkan 1 tabel sekaligus dari 3 tabel menggunakan WHERE dan JOIN TABLE || Mysql Relasi">
+  </picture>
+</a>
 
 <p align="center">Dibuat dengan ❤️ dan secangkir kopi.</p>
