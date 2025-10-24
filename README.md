@@ -8,7 +8,7 @@
 
 ### 👨‍💻 Tentang Saya
 
-Saya adalah seorang lulusan baru dari <strong>Universitas Semarang</strong> dengan predikat <i>Cum Laude</i> (<strong>IPK 3.94</strong>) tahun 2025 dan memiliki hasrat yang besar dalam dunia pengembangan web. Saya berfokus pada MERN Stack dan Next.js untuk membangun aplikasi yang tidak hanya fungsional dan skalabel, tetapi juga memberikan pengalaman pengguna yang luar biasa. Saya selalu antusias untuk belajar teknologi baru dan berkolaborasi dalam proyek-proyek yang menantang.
+Saya merupakan mahasiswa lulusan dari <strong>Universitas Semarang</strong> dengan predikat <i>Cum Laude</i> (<strong>IPK 3.94</strong>) tahun 2025 dan memiliki hasrat yang besar dalam dunia pengembangan web. Saya berfokus pada MERN Stack dan Next.js untuk membangun aplikasi yang tidak hanya fungsional dan skalabel, tetapi juga memberikan pengalaman pengguna yang luar biasa. Saya selalu antusias untuk belajar teknologi baru dan berkolaborasi dalam proyek-proyek yang menantang.
 
 ### 💻 Tech Stack:
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/postgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
@@ -26,44 +26,5 @@ Saya adalah seorang lulusan baru dari <strong>Universitas Semarang</strong> deng
 [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/@hakimzv) 
 
 ---
-
-### 📺 Youtube Content
-<a href="https://youtu.be/kjDL-gHbVqk?si=Vi68cqFeUUCuibhS">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=kjDL-gHbVqk&title=Demonstrasi+Aplikasi+Stok+Barang+dengan+Fitur+Login+dan+Registrasi+||+Flutter+MySQl+Firebase&lang=id&timestamp=1696868769&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5&duration=172">
-    <img src="https://ytcards.demolab.com/?id=kjDL-gHbVqk&title=Demonstrasi+Aplikasi+Stok+Barang+dengan+Fitur+Login+dan+Registrasi+||+Flutter+MySQl+Firebase&lang=id&timestamp=1696868769&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5&duration=172" alt="Flutter" title="Demonstrasi Aplikasi Stok Barang dengan Fitur Login dan Registrasi || Flutter MySQl Firebase">
-  </picture>
-</a>
-<a href="https://youtu.be/t0b4WBgIjV4?si=4L-3shQNS4gDIl8o">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=t0b4WBgIjV4&title=Menggabungkan+PDF+dan+Memberikan+Nomer+Halaman+Secara+Otomatis+||+iLovePDF&lang=id&timestamp=1696868769&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5&duration=172">
-    <img src="https://ytcards.demolab.com/?id=t0b4WBgIjV4&title=Menggabungkan+PDF+dan+Memberikan+Nomer+Halaman+Secara+Otomatis+||+iLovePDF&lang=id&timestamp=1696868769&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5&duration=172" alt="PDF Merge" title="Menggabungkan PDF dan Memberikan Nomer Halaman Secara Otomatis || iLovePDF">
-  </picture>
-</a>
-<a href="https://youtu.be/z2pQ-H4WrDQ?si=_hFyFAtvSw-ePZvV">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=z2pQ-H4WrDQ&title=Simple+Website+(html+dan+css)&lang=id&timestamp=1696868769&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5&duration=172">
-    <img src="https://ytcards.demolab.com/?id=z2pQ-H4WrDQ&title=Simple+Website+(html+dan+css)&lang=id&timestamp=1696868769&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5&duration=172" alt="Website" title="
-Simple Website (html dan css)">
-  </picture>
-</a>
-<a href="https://youtu.be/I1HavyQJmCU?si=TVZ6NmgPwxA0OlDN">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=I1HavyQJmCU&title=Membuat+Kartu+Siswa+Otomatis+||+Power+Automate&lang=id&timestamp=1696868769&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5&duration=172">
-    <img src="https://ytcards.demolab.com/?id=I1HavyQJmCU&title=Membuat+Kartu+Siswa+Otomatis+||+Power+Automate&lang=id&timestamp=1696868769&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5&duration=172" alt="Automate" title="Membuat Kartu Siswa Otomatis || Power Automate">
-  </picture>
-</a>
-<a href="https://youtu.be/zQRJhTIryXQ?si=cuQalqp9ArN-9Q5U">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=zQRJhTIryXQ&title=MEMBUAT+MEKANISME+SEDERHANA+LAMPU+MERAH+MENGGUNAKAN+FLIP+FLOP+||+ELECTRONIC+WORKBENCH&lang=id&timestamp=1696868769&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5&duration=172">
-    <img src="https://ytcards.demolab.com/?id=zQRJhTIryXQ&title=MEMBUAT+MEKANISME+SEDERHANA+LAMPU+MERAH+MENGGUNAKAN+FLIP+FLOP+||+ELECTRONIC+WORKBENCH&lang=id&timestamp=1696868769&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5&duration=172" alt="Workbench" title="MEMBUAT MEKANISME SEDERHANA LAMPU MERAH MENGGUNAKAN FLIP FLOP || ELECTRONIC WORKBENCH">
-  </picture>
-</a>
-<a href="https://youtu.be/5owDGYrDhRs?si=YMO9q5qNWT4-rLWo">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=5owDGYrDhRs&title=Menampilkan+1+tabel+sekaligus+dari+3+tabel+menggunakan+WHERE+dan+JOIN+TABLE+||+Mysql+Relasi&lang=id&timestamp=1696868769&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5&duration=172">
-    <img src="https://ytcards.demolab.com/?id=5owDGYrDhRs&title=Menampilkan+1+tabel+sekaligus+dari+3+tabel+menggunakan+WHERE+dan+JOIN+TABLE+||+Mysql+Relasi&lang=id&timestamp=1696868769&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5&duration=172" alt="Mysql" title="Menampilkan 1 tabel sekaligus dari 3 tabel menggunakan WHERE dan JOIN TABLE || Mysql Relasi">
-  </picture>
-</a>
 
 <p align="center">Dibuat dengan ❤️ dan secangkir kopi.</p>
