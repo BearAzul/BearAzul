@@ -15,8 +15,8 @@ Saya merupakan mahasiswa lulusan dari <strong>Universitas Semarang</strong> deng
 
 ### 📊 GitHub Stats:
 <div style="display: flex; gap: 8px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=bearazul&theme=dark&hide_border=false&include_all_commits=true&count_private=true" width="350" />
-  <img src="https://nirzak-streak-stats.vercel.app/?user=bearazul&theme=dark&hide_border=false" width="385" />
+  <img src="https://github-readme-stats.vercel.app/api?username=bearazul&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true" width="350" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=bearazul&theme=nightowl&hide_border=false" width="385" />
 </div>
 
 ### 🌐 Socials:
