@@ -3,7 +3,7 @@
   Halo, saya Adya Abdu Azizul Hakim!
 </h4>
 <p align="center">
-  <strong>Seorang Junior Front-End Development dari Batang dengan semangat dan selalu memberikan yang terbaik.</strong>
+  <strong>Seorang Junior Web Developer dari Batang dengan semangat dan selalu memberikan yang terbaik.</strong>
 </p>
 
 ### 👨‍💻 Tentang Saya
